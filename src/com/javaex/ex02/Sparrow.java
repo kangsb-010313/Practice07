@@ -7,7 +7,7 @@ public class Sparrow extends Bird {
     }
 
     public void fly() {
-    	System.out.println("참새(" + name + ")가 날아다닙니다.");
+    	System.out.println("참새(" + name + ")가 날아 다닙니다.");
     }
     
     public void showName() {

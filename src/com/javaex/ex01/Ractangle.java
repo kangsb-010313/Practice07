@@ -8,8 +8,8 @@ public class Ractangle extends Shape{
 	
 	public Ractangle(String fillColor, int width, int height){
 		super(fillColor);
-		this.width=width;
-		this.height=height;
+		this.width=12;
+		this.height=10;
 	}
 	
 	
